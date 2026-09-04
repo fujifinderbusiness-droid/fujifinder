@@ -1,0 +1,6 @@
+{
+  "name": "FocalPoint | Editorial Camera Journal & Gear Guide",
+  "description": "A premium editorial-style camera publication, gear discovery platform, and affiliate recommendation guide featuring honest reviews, comparisons, and field testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
